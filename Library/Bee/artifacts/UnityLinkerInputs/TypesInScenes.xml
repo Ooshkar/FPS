@@ -4,8 +4,13 @@
 		<type fullname="PlayerCam" preserve="nothing"/>
 		<type fullname="PlayerMovementTutorial" preserve="nothing"/>
 	</assembly>
+	<assembly fullname="Unity.VisualScripting.Core">
+		<type fullname="Unity.VisualScripting.SceneVariables" preserve="nothing"/>
+		<type fullname="Unity.VisualScripting.Variables" preserve="nothing"/>
+	</assembly>
 	<assembly fullname="Unity.VisualScripting.Flow">
 		<type fullname="Unity.VisualScripting.ScriptGraphAsset" preserve="nothing"/>
+		<type fullname="Unity.VisualScripting.ScriptMachine" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="UnityEngine">
 		<type fullname="UnityEditor.AudioManager" preserve="nothing"/>

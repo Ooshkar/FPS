@@ -1211,7 +1211,7 @@
       "DisplayName": "Writing 9908469370838540649.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 42690,
-      "PayloadLength": 62637,
+      "PayloadLength": 62725,
       "PayloadDebugContentSnippet": "--allowed-assembly=\"G:/Unity/6",
       "Inputs": [],
       "InputFlags": [],
@@ -1596,6 +1596,7 @@
         "G:/Unity/6000.0.40f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/monodoc.dll",
         "G:/Unity/6000.0.40f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/mscorlib.dll",
         "G:/FPS/Library/Bee/artifacts/UnityLinkerInputs/TypesInScenes.xml",
+        "G:/FPS/Library/Bee/artifacts/UnityLinkerInputs/SerializedTypes.xml",
         "G:/FPS/Library/Bee/artifacts/UnityLinkerInputs/EditorToUnityLinkerData.json",
         "G:/Unity/6000.0.40f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/modules.asset",
         "G:/Unity/6000.0.40f1/Editor/Data/il2cpp/build/deploy/Analytics.Api.Output.dll",
@@ -1863,6 +1864,7 @@
         "Library/Bee/artifacts/rsp/9908469370838540649.rsp"
       ],
       "InputFlags": [
+        0,
         0,
         0,
         0,
@@ -4725,7 +4727,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 105416,
+      "PayloadOffset": 105504,
       "PayloadLength": 18,
       "PayloadDebugContentSnippet": "DefaultCompany\nFPS",
       "Inputs": [],

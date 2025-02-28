@@ -138,9 +138,30 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Unity.VisualScripting.Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Unity.VisualScripting.SceneVariables",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "Unity.VisualScripting.Flow.dll",
             "nativeClass": "",
             "fullManagedTypeName": "Unity.VisualScripting.ScriptGraphAsset",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.VisualScripting.Flow.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Unity.VisualScripting.ScriptMachine",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.VisualScripting.Core.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Unity.VisualScripting.Variables",
             "moduleName": "",
             "usedInScenes": []
         },
