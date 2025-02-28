@@ -21,6 +21,19 @@ public class PlayerCam : MonoBehaviour
     }
     private void Update()
     {
+        if (Input.GetKeyDown("="))
+        {
+            sensX = sensX + 100f;
+            sensY = sensY + 100f;
+            Debug.Log("added");
+        }
+        if (Input.GetKeyDown("-"))
+        {
+            sensX = sensX + -100f;
+            sensY = sensY + -100f;
+            Debug.Log("subtracted");
+        }
+
         float mouseX = Input.GetAxisRaw("Mouse X") * Time.deltaTime * sensX;
         float mouseY = Input.GetAxisRaw("Mouse Y") * Time.deltaTime * sensY;
 
