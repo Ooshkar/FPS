@@ -1,5 +1,0 @@
-<linker>
-	<assembly fullname="Unity.VisualScripting.Core">
-		<type fullname="Unity.VisualScripting.SerializationData" preserve="nothing" serialized="true"/>
-	</assembly>
-</linker>
